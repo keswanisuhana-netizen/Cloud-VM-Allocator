@@ -1,0 +1,8 @@
+*.o
+*.out
+test_header
+tests/test_common
+tests/test_server
+cloudvm
+logs/*.log
+*~
